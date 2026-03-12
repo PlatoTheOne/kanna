@@ -153,4 +153,3 @@ Default dev URLs:
 - The local server is the source of truth.
 - Browser refreshes reconnect and rehydrate from the local server.
 - Data lives in `~/.kanna/data`, not inside this repo.
-# kanna
